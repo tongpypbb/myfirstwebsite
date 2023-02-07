@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    }
+    h1{
+       size: 20px; 
+    }
+    img{
+background-color: cadetblue;
+    }
+    .mushroom{
+background-color: rgb(247, 241, 233);
+ }
+ .unicorn{
+    background-color: deeppink;
+ }
+ .heart{
+    background-color: firebrick;
+ }
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: red;
+}
